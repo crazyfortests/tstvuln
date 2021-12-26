@@ -7,10 +7,10 @@ from setuptools import setup, Extension
 setup(
     author="crazy",
     name='tstvuln',
-    version='v0.0.1',
+    version='v0.0.2',
     python_requires=">=3.2",
     packages=['tstvuln'],
-    download_url='https://github.com/crazyfortests/tstvuln/archive/refs/tags/v0.0.1.tar.gz',
+    download_url='https://github.com/crazyfortests/tstvuln/archive/refs/tags/v0.0.2.tar.gz',
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
